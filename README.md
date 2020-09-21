@@ -1,2 +1,2 @@
 # leetcode
-to store my solutions from leetcode
+storing my solutions from leetcode
