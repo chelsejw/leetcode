@@ -6,7 +6,7 @@ Icon | Meaning
 -|-
 💭 | In-progress
 ✔️ | Solved
-    
+
 
 ## Easy
 
@@ -20,8 +20,7 @@ Icon | Meaning
 -|-|-|-
 1| [Add Two Numbers](/add-two-numbers)|21 Sep 2020| ✔️
 2| [Longest Substring Without Repeating Characters](/longest-substr) | 21 Sep 2020 | ✔️
-2| [Median of Two Sorted Arrays](/median-two-sorted-arrs) | 21 Sep 2020 | 💭
  
 ## Hard
 \#|Name|Date of Attempt|Status
--|-|-|-
+1| [Median of Two Sorted Arrays](/median-two-sorted-arrs) | 21 Sep 2020 | 💭
