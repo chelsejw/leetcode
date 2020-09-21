@@ -6,6 +6,7 @@ Icon | Meaning
 -|-
 💭 | In-progress
 ✔️ | Solved
+    
 
 ## Easy
 
