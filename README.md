@@ -12,7 +12,8 @@ This is where I store my solutions/attempts from LeetCode.
 \#|Name|Date of Attempt
 -|-|-
 1| [Add Two Numbers](/add-two-numbers)|21 Sep 2020
-
+2| [Longest Substring Without Repeating Characters](/longest-substr) | 21 Sep 2020
+ 
 ## Hard
 \#|Name|Date of Attempt
 -|-|-
