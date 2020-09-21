@@ -49,3 +49,10 @@ nums2.length == n
 1 <= m + n <= 2000
 -106 <= nums1[i], nums2[i] <= 106
 ```
+
+### My Solution
+
+```
+Runtime: 260 ms, faster than 11.14% of JavaScript online submissions for Median of Two Sorted Arrays.
+Memory Usage: 47.4 MB, less than 12.01% of JavaScript online submissions for Median of Two Sorted Arrays.
+```
