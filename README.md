@@ -23,4 +23,5 @@ Icon | Meaning
  
 ## Hard
 \#|Name|Date of Attempt|Status
+-|-|-|-
 1| [Median of Two Sorted Arrays](/median-two-sorted-arrs) | 21 Sep 2020 | 💭
