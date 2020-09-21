@@ -2,11 +2,10 @@
 This is where I store my solutions/attempts from LeetCode.
 
 ## Key
-Icon | Meaning
--|-
-💭 | In-progress
-✔️ | Solved
-❗️ | More optimisation needed
+💭  -- In-progress
+<br>✔️ -- Solved
+<br>❗️ -- More optimisation needed
+
 
 ## Easy
 
