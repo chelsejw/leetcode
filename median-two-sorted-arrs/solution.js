@@ -35,8 +35,12 @@ var findMedianSortedArrays = function (nums1, nums2) {
         }
     }
     if (sorted.length==1) return sorted[0]
-    // console.log(sorted);
-    return ((sorted[Math.floor(sorted.length/2)-1]+sorted[Math.ceil(sorted.length/2)])/2)
+    console.log(sorted);
+    if (sorted.length%2===0) {
+        return (sorted[Math.floor(sorted.length/2)-1]+sorted[Math.ceil(sorted.length/2)])/2
+    } else {
+        return sorted[Math.ceil(sorted.length / 2) - 1];
+    }
 };
 
 
@@ -44,4 +48,5 @@ var findMedianSortedArrays = function (nums1, nums2) {
 console.log(findMedianSortedArrays([1, 9], [2,4]));
 console.log(findMedianSortedArrays([0], []));
 console.log(findMedianSortedArrays([0,0,0,0,0],[-1,0,0,0,0,0,1]));
+console.log(findMedianSortedArrays([3], [-2,-1]));
 
