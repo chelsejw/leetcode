@@ -1,19 +1,18 @@
-# leetcode
-storing my solutions from leetcode
+# Introduction
+This is where I store my solutions/attempts from LeetCode.
 
-
-# EASY
+## Easy
 
 \#|Name|Date of Attempt
 -|-|-
 1| [Two Sum](/two-sum)|21 Sep 2020
 
 
-# MEDIUM
+## Medium
 \#|Name|Date of Attempt
 -|-|-
 1| [Add Two Numbers](/add-two-numbers)|21 Sep 2020
 
-# HARD
+## Hard
 \#|Name|Date of Attempt
 -|-|-
